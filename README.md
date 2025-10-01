@@ -1,4 +1,4 @@
-# Public Demo
+# Public Demo Test
 
 This is a repository to demonstrate the scanning and correlation capabilities of the Wiz platform.
 
